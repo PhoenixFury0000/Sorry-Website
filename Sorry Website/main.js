@@ -37,7 +37,7 @@ gif.style.width = "400px";
     noBtn.addEventListener("click", () => {
       question.innerHTML = "Ak baar ar soch le🥲";
       gif.src = "images/sadlife.gif";
-      yesBtn.innerHTML = "Chalo maan gai";
+      yesBtn.innerHTML = "Chalo maan gya ab";
       noBtn.innerHTML = "Final no";
 
       yesBtn.addEventListener("click", () => {
