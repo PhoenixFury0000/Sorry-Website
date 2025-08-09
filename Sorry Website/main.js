@@ -48,7 +48,7 @@ gif.style.width = "400px";
       });
 
       noBtn.addEventListener("click", () => {
-        question.innerHTML = "Manja nah! kitna bhav khayegi";
+        question.innerHTML = "Manja nah! kitna bhav khaoge";
         gif.src = "images/run.gif";
         yesBtn.innerHTML = "No";
         noBtn.innerHTML = "Yes";
